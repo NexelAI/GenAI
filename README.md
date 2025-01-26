@@ -5,6 +5,7 @@ Testing project
 ## Installation
 
 To install the dependencies for this project, you can run the following command:
+
 ```bash
 $ poetry install
 ```
@@ -25,7 +26,7 @@ This project is licensed under the GNU General Public License. You can find a co
 
 ## Contributing
 
-Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
+Contributions are welcome! Please read our [CONTRIBUTING.md](docs/CONTRIBUTING.md) file for guidelines on how to contribute.
 
 ## Authors
 
