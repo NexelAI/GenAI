@@ -1,0 +1,20 @@
+[project]
+name = "sandbox"
+version = "0.0.1"
+description = "Testing project"
+authors = [
+    {name = "Luís Pires"}
+]
+license = "GPL-3.0-only"
+readme = "README.md"
+requires-python = "3.13.1"
+dependencies = [
+    "pylint (>=3.3.3,<4.0.0)",
+    "autopep8 (>=2.3.2,<3.0.0)"
+]
+[tool.poetry]
+package-mode = false
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
