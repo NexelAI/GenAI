@@ -20,7 +20,7 @@ By participating in this community, you agree to the following behaviors:
 
 ## Reporting Issues
 
-If you experience or witness harassment or any inappropriate behavior, please report it immediately by opening an issue on our [Issues tab](https://github.com/lupirex/sandbox/issues) with a detailed description of what occurred.
+If you experience or witness harassment or any inappropriate behavior, please report it immediately by opening an issue on our [Issues tab](https://github.com/NexelAI/Sandbox/issues) with a detailed description of what occurred.
 
 ## Enforcement
 
