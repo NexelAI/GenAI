@@ -35,4 +35,4 @@ Any other details, logs, or screenshots that might help in troubleshooting.
 
 - If this is a **bug report**, please use the **[Bug Report](bug_report.md)** template instead.
 - If this is a **feature request**, use the **[Feature Request](feature_request.md)** template.
-- You may also check our **[documentation](../../docs/)** or [Discussions](https://github.com/NexelAI/Sandbox/discussions) before posting.
+- You may also check our **[documentation](../../docs/)** or [Discussions](https://github.com/NexelAI/GenAI/discussions) before posting.

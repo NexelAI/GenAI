@@ -1,4 +1,4 @@
-# Sandbox
+# GenAI
 
 Testing project
 

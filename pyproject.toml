@@ -1,5 +1,5 @@
 [project]
-name = "sandbox"
+name = "GenAI"
 version = "0.0.1"
 description = "Testing project"
 authors = [

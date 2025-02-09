@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
   - name: ❓ General Support Questions
-    url: https://github.com/NexelAI/Sandbox/discussions
+    url: https://github.com/NexelAI/GenAI/discussions
     about: Please ask general questions in our Discussions section.
   - name: 📖 Documentation & Guides
-    url: https://github.com/NexelAI/Sandbox/wiki
+    url: https://github.com/NexelAI/GenAI/wiki
     about: Check out our wiki for setup and usage instructions.
   - name: 🚀 Feature Requests
-    url: https://github.com/NexelAI/Sandbox/issues/new?template=feature_request.md
+    url: https://github.com/NexelAI/GenAI/issues/new?template=feature_request.md
     about: Suggest a new feature by using the Feature Request template.

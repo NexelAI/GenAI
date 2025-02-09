@@ -36,4 +36,4 @@ If applicable, add screenshots of any changes made or features added.
 
 ---
 
-Thank you for contributing to the Sandbox project! Your efforts are greatly appreciated.
+Thank you for contributing to the GenAI project! Your efforts are greatly appreciated.

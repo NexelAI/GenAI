@@ -1,8 +1,8 @@
-# 📚 Sandbox Documentation
+# 📚 GenAI Documentation
 
 ## 📝 Overview
 
-**Sandbox** is a Python project that serves as a testing ground for various development tools and best practices, including:
+**GenAI** is a Python project that serves as a testing ground for various development tools and best practices, including:
 
 - **Poetry** for dependency management
 - **GitHub Actions** for CI/CD automation
@@ -32,8 +32,8 @@ poetry --version
 ### **2️⃣ Clone the Repository**
 
 ```sh
-git clone https://github.com/NexelAI/Sandbox.git
-cd Sandbox
+git clone https://github.com/NexelAI/GenAI.git
+cd GenAI
 ```
 
 ### **3️⃣ Install Dependencies**
@@ -121,8 +121,8 @@ See the [`LICENSE`](../LICENSE) file for details.
 
 ## 😇 Support & Questions
 
-For general questions, visit our **[GitHub Discussions](https://github.com/NexelAI/Sandbox/discussions)**.
-For bug reports or feature requests, check out our **[Issue Tracker](https://github.com/NexelAI/Sandbox/issues)**.
+For general questions, visit our **[GitHub Discussions](https://github.com/NexelAI/GenAI/discussions)**.
+For bug reports or feature requests, check out our **[Issue Tracker](https://github.com/NexelAI/GenAI/issues)**.
 
 ---
 

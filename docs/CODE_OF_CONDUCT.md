@@ -1,10 +1,10 @@
 # Code of Conduct
 
-As contributors to the Sandbox project, we are committed to maintaining a respectful and professional community. Please read this document to understand our expectations and guidelines.
+As contributors to the GenAI project, we are committed to maintaining a respectful and professional community. Please read this document to understand our expectations and guidelines.
 
 ## Our Pledge
 
-We as members of the Sandbox team are dedicated to fostering an inclusive environment where everyone feels safe, respected, and valued. We pledge to:
+We as members of the GenAI team are dedicated to fostering an inclusive environment where everyone feels safe, respected, and valued. We pledge to:
 
 - **Respect Everyone:** Treat all participants with respect, kindness, and consideration.
 - **Report Harassment:** If you experience or witness harassment, please report it immediately using one of our designated channels (see below).
@@ -20,7 +20,7 @@ By participating in this community, you agree to the following behaviors:
 
 ## Reporting Issues
 
-If you experience or witness harassment or any inappropriate behavior, please report it immediately by opening an issue on our [Issues tab](https://github.com/NexelAI/Sandbox/issues) with a detailed description of what occurred.
+If you experience or witness harassment or any inappropriate behavior, please report it immediately by opening an issue on our [Issues tab](https://github.com/NexelAI/GenAI/issues) with a detailed description of what occurred.
 
 ## Enforcement
 

@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for considering contributing to the Sandbox project! We welcome contributions from everyone, and we appreciate your help in making this project better.
+Thank you for considering contributing to the GenAI project! We welcome contributions from everyone, and we appreciate your help in making this project better.
 
 ## How Can I Contribute?
 
@@ -9,8 +9,8 @@ Thank you for considering contributing to the Sandbox project! We welcome contri
 2. **Clone Your Fork**: Clone your forked repository to your local machine.
 
    ```bash
-   $ git clone https://github.com/YOUR_USERNAME/Sandbox.git
-   $ cd Sandbox
+   $ git clone https://github.com/YOUR_USERNAME/GenAI.git
+   $ cd GenAI
    ```
 
 3. **Create a New Branch**: Create a new branch for your feature or bug fix.
@@ -42,7 +42,7 @@ Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) when contributing to thi
 
 ## Reporting Issues
 
-If you encounter any issues or bugs, please report them by opening an issue on the [Issues tab](https://github.com/lupirex/Sandbox/issues). Be sure to include a detailed description of the problem along with steps to reproduce it if possible.
+If you encounter any issues or bugs, please report them by opening an issue on the [Issues tab](https://github.com/lupirex/GenAI/issues). Be sure to include a detailed description of the problem along with steps to reproduce it if possible.
 
 ## License
 
